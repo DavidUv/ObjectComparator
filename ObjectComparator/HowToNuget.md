@@ -1,0 +1,1 @@
+C:\Users\Win7\Dropbox\projects\Knappra\ObjectComparator>nuget pack ObjectComparator\ObjectComparator.csproj -Prop Configuration=Release
